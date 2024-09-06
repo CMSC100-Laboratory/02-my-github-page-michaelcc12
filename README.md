@@ -6,11 +6,11 @@ Degree Program: MS Computer Science <br />
 Live Website Link: <a href="https://cmsc100-laboratory.github.io/02-my-github-page-michaelcc12/">Github Page</a> 
 
 <p>Steps in Creating a Github Page</p>
-1. Create your GitHub repository. <br />
-2. Make it public. <br />
-3. Go to the Settings->Pages. <br />
-4. Set the branch where your GitHub Pages will be built. <br />
-5. Add index.html and its contents. <br />
+1. Create your GitHub repository. <br>
+2. Make it public. <br>
+3. Go to the Settings->Pages. <br>
+4. Set the branch where your GitHub Pages will be built. <br>
+5. Add index.html and its contents. <br>
 
 <p>My Key Takeaways in Doing the Exercise</p>
-<p>Creating GitHub has features that let us display static pages to the public. Flex layout offers a lot of features which let me have better control on the design and responsiveness of the page. The more I explore its features, the more I realize its power and potential. Lastly, designing web pages is not an easy task since CSS styles can become redundant and may conflict as more of it is added.  </p> 
+<p>GitHub has features that let us display static pages to the public through GitHub Pages. Flex layout offers a lot of features which let me have better control on the design and responsiveness of the page. The more I explore its features, the more I realize its power and potential. Lastly, designing web pages is not an easy task since CSS styles can become redundant and may conflict as more of it is added.  </p> 
